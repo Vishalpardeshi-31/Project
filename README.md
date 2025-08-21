@@ -20,7 +20,7 @@
 - Estimated wait time display.
 
 
-  ### 3️⃣  Virtual Train Route Planner
+### 3️⃣  Virtual Train Route Planner
 **Concept:** Navigate train stations in real-time.  
 **Tech Requirements:**
 - Doubly linked list for forward/back navigation.
